@@ -13,3 +13,10 @@ MapObjTian::MapObjTian(QObject *parent) : MapObjBase(parent)
 DEFINES += tianx
 
 3、将类文件下载到video_system\core_map\mapobj目录下面
+
+
+http://www.qtcdev.com/video_system 
+
+国内站点：https://gitee.com/feiyangqingyun
+
+国际站点：https://github.com/feiyangqingyun
